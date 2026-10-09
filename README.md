@@ -5,17 +5,17 @@ Here are some of my first data sciences projects (2023-2026).
 ### :art: [Art Students Sociology (June 2024)](https://github.com/eloisedelerue/data-analysis-portfolio/tree/main/art-students-sociology)
 A descriptive analysis carried out from a questionnaire distributed to art students to determine whether their artistic practices are influenced by their social background.
 
-### :meat_on_bone: [Cannibalism and Democracy](https://github.com/eloisedelerue/data-analysis-portfolio/tree/main/cannibalism-and-democracy)
+### :meat_on_bone: [Cannibalism and Democracy (April 2024)](https://github.com/eloisedelerue/data-analysis-portfolio/tree/main/cannibalism-and-democracy)
 A descriptive analysis that studies at whether a country's regime has an influence on cannibalism.
 
-### :ocean: [Flooding and Natation](https://github.com/eloisedelerue/data-analysis-portfolio/tree/main/flooding-and-natation)
+### :ocean: [Flooding and Natation (November 2023)](https://github.com/eloisedelerue/data-analysis-portfolio/tree/main/flooding-and-natation)
 A descriptive analysis that investigates the link between GDP, flooding and a country's Olympic swimming medals.
 
-### :headstone: [Kenny's Deaths](https://github.com/eloisedelerue/data-analysis-portfolio/tree/main/kenny-s-deaths)
+### :headstone: [Kenny's Deaths (January 2024)](https://github.com/eloisedelerue/data-analysis-portfolio/tree/main/kenny-s-deaths)
 A descriptive analysis that explores whether the multiple deaths of Kenny's character in _South Park_ truly reflect the fears of American society.
 
-### :books: [Lightnovel Collection](https://github.com/eloisedelerue/data-analysis-portfolio/tree/main/lightnovels-collection)
+### :books: [Lightnovel Collection (June 2024)](https://github.com/eloisedelerue/data-analysis-portfolio/tree/main/lightnovels-collection)
 A programme written for the purpose of collecting information about lightnovel works from the [lightnovelworld](https://www.lightnovelworld.com/hub_29071230#:~:text=Light%20Novel%20World%20is%20a%20very%20special%20platform%20where%20you) website.
 
-### :ship: [Titanic](https://github.com/eloisedelerue/data-analysis-portfolio/tree/main/titanic)
+### :ship: [Titanic (October 2024)](https://github.com/eloisedelerue/data-analysis-portfolio/tree/main/titanic)
 A predictive analysis that predicts a Titanic passenger's survival based on their data.
