@@ -15,10 +15,9 @@ A descriptive analysis that investigates the link between GDP, flooding and a co
 
 ### :headstone: [Kenny's Deaths](https://github.com/eloisedelerue/data-analysis-portfolio/tree/main/kenny-s-deaths)
 A descriptive analysis that explores whether the multiple deaths of Kenny's character in _South Park_ truly reflect the fears of American society.
-Please note that the report is missing, and will be added soon.
 
 ### :books: [Lightnovel Collection](https://github.com/eloisedelerue/data-analysis-portfolio/tree/main/lightnovels-collection)
 A programme written for the purpose of collecting information about lightnovel works from the [lightnovelworld](https://www.lightnovelworld.com/hub_29071230#:~:text=Light%20Novel%20World%20is%20a%20very%20special%20platform%20where%20you) website.
 
 ### :ship: [Titanic](https://github.com/eloisedelerue/data-analysis-portfolio/tree/main/titanic)
-A predictive analysis that predicts a Titanic passenger's survival based on their data. The aim was to test different methods. Please note that the report is missing.
+A predictive analysis that predicts a Titanic passenger's survival based on their data.
