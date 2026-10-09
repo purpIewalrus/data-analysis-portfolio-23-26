@@ -2,7 +2,7 @@
 
 # Data Analysis Portfolio
 
-Here are a few of my (very serious) past projects. Please note that most of the results are not significant. These projects are more interesting for their methodology.
+Here are some of my first data sciences projects (2023-2026).
 
 ### :art: [Art Students Sociology](https://github.com/eloisedelerue/data-analysis-portfolio/tree/main/art-students-sociology)
 A descriptive analysis carried out from a questionnaire distributed to art students to determine whether their artistic practices are influenced by their social background.
