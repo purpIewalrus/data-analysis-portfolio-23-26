@@ -2,7 +2,7 @@
 
 Here are some of my first data sciences projects (2023-2026).
 
-### :art: [Art Students Sociology](https://github.com/eloisedelerue/data-analysis-portfolio/tree/main/art-students-sociology)
+### :art: [Art Students Sociology (June 2024)](https://github.com/eloisedelerue/data-analysis-portfolio/tree/main/art-students-sociology)
 A descriptive analysis carried out from a questionnaire distributed to art students to determine whether their artistic practices are influenced by their social background.
 
 ### :meat_on_bone: [Cannibalism and Democracy](https://github.com/eloisedelerue/data-analysis-portfolio/tree/main/cannibalism-and-democracy)
