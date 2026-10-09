@@ -1,5 +1,3 @@
-/!\ Hasn't been updated in a while! But will soon.
-
 # Data Analysis Portfolio
 
 Here are some of my first data sciences projects (2023-2026).
